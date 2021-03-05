@@ -3,7 +3,7 @@ use rand::Rng;
 
 fn main() {
     let mut rng = rand::thread_rng();
-    let mut _list = [4; 500];
+    let mut _list = [4; 50000];
      
     for _i in 0.._list.len(){
         _list[_i] = rng.gen_range(0..11);
