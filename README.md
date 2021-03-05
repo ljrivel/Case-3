@@ -1,1 +1,2 @@
-# Remember run the Rust with cargo run, because use a librery rand
+# Case number 3 part b
+
