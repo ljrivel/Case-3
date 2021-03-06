@@ -1,7 +1,10 @@
 extern crate rand;
 use rand::Rng;
+use std::time::SystemTime;
 
 fn main() {
+    let sys_time = SystemTime::now();
+
     let mut rng = rand::thread_rng();
     let mut _list = [4; 50000];
      
@@ -16,6 +19,8 @@ fn main() {
         }
     }
     
-     println!(" ");
-    println!("Termino de correr el programa ");
+    let new_sys_time = SystemTime::now();
+    let difference = new_sys_time.duration_since(sys_time)
+    .expect("Clock may have gone backwards");
+    println!("El tiempo de ejecucion fue: {:?}", difference);
 }
