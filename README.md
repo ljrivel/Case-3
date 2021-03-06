@@ -2,5 +2,7 @@
 
 ## Especificaciones de la computadora(laptop)
 Procesador i3 5 Generacion 
- -4 GB Ram DDR3 
-  -500 GB Disco Duro
+###
+ 4 GB Ram DDR3
+ ###
+ 500 GB Disco Duro
