@@ -8,6 +8,11 @@ Procesador Ryzen 7 4800h
  ###
  512 GB SSD
 
+### Pasos Seguidos
+
+Se probo con con 4 tipos de tamaños de arreglo, el primero fue de 50000, luego de 100000 , despues de 250000 y por ultimo de 500000 es que fue el tamaño maximo aceptado. 
+
+
 ### Rust
 ![Captura de pantalla (145)](https://user-images.githubusercontent.com/61246740/110414395-65987d80-8055-11eb-9b6b-aa9f5416472a.png)
 
