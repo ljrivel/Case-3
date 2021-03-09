@@ -2,9 +2,9 @@
 # Case 3
 
 ## Especificaciones de la computadora(laptop)
-Procesador i3 5020U 
+Procesador Ryzen 7 4800h
 ###
- 4 GB Ram DDR3
+ 16 GB Ram DDR4
  ###
- 500 GB Disco Duro
+ 512 GB SSD
 
